@@ -8,6 +8,7 @@ public class PaginationDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PaginationDemoApplication.class, args);
+		System.out.println("Welcome to VCS");
 	}
 
 }
